@@ -1,0 +1,60 @@
+.main{
+    text-align:center;
+
+}
+.header{
+    position:relative;
+    top:-18px;
+    bottom:2px;
+    padding:0px;
+    text-align:center;
+    justify-content:center;
+    background:green;
+    height:60px;
+    border-radius:30px;
+    color:white;
+    
+    
+}
+
+#num{
+    position:relative;
+    top:97px;
+    left:-30px;
+}
+#status{
+    position:relative;
+    top:106px;
+    left:-30px;
+    padding:0px;
+    margin:0px;
+}
+
+#img2{
+    position:relative;
+    top:60px;
+    height:110px;
+    left:-26px;
+    
+}
+#img{
+    position:relative;
+    top:60px;
+    height:110px;
+    left:-35px;
+}
+#btn{
+    position:relative;
+    top:170px;
+    font-size:20px;
+    right:21px;
+    height:40px;
+    padding:0px;
+    margin:0px;
+    width:160px;
+    color:white;
+    border-style:none;
+    border-radius:12px;
+    background:green;
+}
+
